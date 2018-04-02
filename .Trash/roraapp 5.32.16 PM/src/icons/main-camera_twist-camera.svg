@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="7730 -3789 49.371 52.312">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #1e1e1e;
+      }
+
+      .cls-2 {
+        filter: url(#Path_25);
+      }
+
+      .cls-3 {
+        filter: url(#Path_24);
+      }
+    </style>
+    <filter id="Path_24" x="7730" y="-3789" width="45.331" height="39.335" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_25" x="7733.945" y="-3776.023" width="45.426" height="39.334" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_178" data-name="Group 178" transform="translate(7857.812 -2903)">
+    <g class="cls-3" transform="matrix(1, 0, 0, 1, -7857.81, 2903)">
+      <path id="Path_24-2" data-name="Path 24" class="cls-1" d="M27.37,6.8a13.678,13.678,0,0,1,17.782-.469l-4.071.154a.946.946,0,0,0,.035,1.892h.035l6.25-.231a.944.944,0,0,0,.911-.946V7.091h0L48.082.911a.947.947,0,1,0-1.892.07l.147,3.875A15.557,15.557,0,0,0,26.1,5.4a15.562,15.562,0,0,0-4.68,15.211.942.942,0,0,0,.918.722.82.82,0,0,0,.224-.028.947.947,0,0,0,.694-1.142A13.67,13.67,0,0,1,27.37,6.8Z" transform="translate(7718.02 -3783)"/>
+    </g>
+    <g class="cls-2" transform="matrix(1, 0, 0, 1, -7857.81, 2903)">
+      <path id="Path_25-2" data-name="Path 25" class="cls-1" d="M104.282,185.936a.945.945,0,0,0-1.836.448,13.668,13.668,0,0,1-22.007,13.74l4.12-.371a.946.946,0,1,0-.175-1.885l-6.229.561a.945.945,0,0,0-.855,1.03l.561,6.229a.944.944,0,0,0,.939.862.341.341,0,0,0,.084-.007.945.945,0,0,0,.855-1.03l-.336-3.79a15.452,15.452,0,0,0,8.989,3.426c.266.014.532.021.792.021a15.559,15.559,0,0,0,15.1-19.233Z" transform="translate(7665.65 -3955.24)"/>
+    </g>
+  </g>
+</svg>

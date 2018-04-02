@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="7561.448 -2632 36 36">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #09e9f2;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-3 {
+        filter: url(#Path_670);
+      }
+
+      .cls-4 {
+        filter: url(#Path_668);
+      }
+    </style>
+    <filter id="Path_668" x="7561.448" y="-2632" width="36" height="36" filterUnits="userSpaceOnUse">
+      <feOffset dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_670" x="7568.458" y="-2622.991" width="22.313" height="18.147" filterUnits="userSpaceOnUse">
+      <feOffset dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1" result="blur-2"/>
+      <feFlood flood-color="#787878" flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_713" data-name="Group 713" transform="translate(7256.458 -2720.991)">
+    <g id="Group_683" data-name="Group 683">
+      <g id="Group_682" data-name="Group 682" transform="translate(2.99 2.99)">
+        <g class="cls-4" transform="matrix(1, 0, 0, 1, -7259.45, 2718)">
+          <path id="Path_668-2" data-name="Path 668" class="cls-1" d="M12.15.15a12,12,0,1,1-12,12A12,12,0,0,1,12.15.15Z" transform="translate(7567.3 -2628.15)"/>
+        </g>
+      </g>
+    </g>
+    <g class="cls-3" transform="matrix(1, 0, 0, 1, -7256.46, 2720.99)">
+      <path id="Path_670-2" data-name="Path 670" class="cls-2" d="M174.5,182.245l-9.019,8.971-3.291-3.31a1.174,1.174,0,1,0-1.669,1.65l4.116,4.145a1.17,1.17,0,0,0,1.66,0l9.854-9.8a1.17,1.17,0,1,0-1.65-1.66Z" transform="translate(7411.27 -2803.89)"/>
+    </g>
+  </g>
+</svg>

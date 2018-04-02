@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="8376.332 -3972 23.196 24.235">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #31f7e4;
+      }
+    </style>
+  </defs>
+  <g id="Group_536" data-name="Group 536" transform="translate(8136 -4381)">
+    <path id="Path_162" data-name="Path 162" class="cls-1" d="M217.023,49.738a.536.536,0,0,0-.538-.538h-13.6a.538.538,0,1,0,0,1.077h13.6A.536.536,0,0,0,217.023,49.738Z" transform="translate(46.506 361.226)"/>
+    <path id="Path_163" data-name="Path 163" class="cls-1" d="M199.488,236.4a.538.538,0,1,0,0,1.077h13.6a.538.538,0,1,0,0-1.077Z" transform="translate(49.721 184.005)"/>
+    <path id="Path_164" data-name="Path 164" class="cls-1" d="M213.623,420.738a.536.536,0,0,0-.538-.538h-13.6a.538.538,0,0,0,0,1.077h13.6A.536.536,0,0,0,213.623,420.738Z" transform="translate(49.721 10.184)"/>
+    <circle id="Ellipse_50" data-name="Ellipse 50" class="cls-1" cx="2.138" cy="2.138" r="2.138" transform="translate(240.332 409)"/>
+    <path id="Path_691" data-name="Path 691" class="cls-1" d="M2.138,0A2.138,2.138,0,1,1,0,2.138,2.138,2.138,0,0,1,2.138,0Z" transform="translate(240.332 428.959)"/>
+    <path id="Path_690" data-name="Path 690" class="cls-1" d="M2.138,0A2.138,2.138,0,1,1,0,2.138,2.138,2.138,0,0,1,2.138,0Z" transform="translate(240.332 418.979)"/>
+  </g>
+</svg>

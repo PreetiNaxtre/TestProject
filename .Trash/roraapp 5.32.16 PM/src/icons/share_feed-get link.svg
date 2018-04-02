@@ -1,0 +1,24 @@
+<svg id="Group_809" data-name="Group 809" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="7633 -3776 55 55">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        filter: url(#Path_388);
+      }
+    </style>
+    <filter id="Path_388" x="7637" y="-3765" width="47.579" height="39.856" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <circle id="green_circle" data-name="green circle" class="cls-1" cx="27.5" cy="27.5" r="27.5" transform="translate(7633 -3776)"/>
+  <g class="cls-2" transform="matrix(1, 0, 0, 1, 0, 0)">
+    <path id="Path_388-2" data-name="Path 388" d="M13.573,984.663a5.651,5.651,0,1,0,5.651,9.788l6.526-3.768a5.64,5.64,0,0,0,2.264-7.357.378.378,0,0,0-.682.326,4.878,4.878,0,0,1-1.959,6.379L18.848,993.8a4.9,4.9,0,0,1-4.9-8.483l6.526-3.768a.377.377,0,1,0-.377-.652l-6.526,3.768Zm11.746-6.782a5.64,5.64,0,0,0-2.264,7.357.378.378,0,0,0,.682-.326,4.878,4.878,0,0,1,1.959-6.379l6.526-3.768a4.9,4.9,0,0,1,4.9,8.483l-6.526,3.768a.377.377,0,1,0,.377.653L37.5,983.9a5.651,5.651,0,0,0-5.651-9.788l-6.526,3.768Z" transform="translate(7635.25 -4732.35)"/>
+  </g>
+</svg>

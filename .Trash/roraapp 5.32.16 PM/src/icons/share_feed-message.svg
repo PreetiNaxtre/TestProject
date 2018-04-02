@@ -1,0 +1,33 @@
+<svg id="Group_802" data-name="Group 802" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="7178.5 -3776 55 55.436">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-2 {
+        fill: #fff;
+        fill-rule: evenodd;
+      }
+
+      .cls-3 {
+        filter: url(#bubble);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#82fb6b"/>
+      <stop offset="1" stop-color="#10d71d"/>
+    </linearGradient>
+    <filter id="bubble" x="7180.114" y="-3768.491" width="51.446" height="47.927" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <circle id="green_circle" data-name="green circle" class="cls-1" cx="27.5" cy="27.5" r="27.5" transform="translate(7178.5 -3776)"/>
+  <g class="cls-3" transform="matrix(1, 0, 0, 1, 0, 0)">
+    <path id="bubble-2" data-name="bubble" class="cls-2" d="M17.838,35.973c0-7.389,7.487-13.378,16.723-13.378s16.723,5.99,16.723,13.378S43.8,49.351,34.561,49.351a20.7,20.7,0,0,1-4.391-.466l-.049.078c-1.022,1.619-6.978,3.465-6.978,3.465-.773.263-1-.053-.5-.7,0,0,2.288-2.81,2.288-3.7,0-.871-.116-1.014-.5-1.414C20.424,44.175,17.838,40.316,17.838,35.973Z" transform="translate(7171.28 -3785.09)"/>
+  </g>
+</svg>

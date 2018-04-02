@@ -1,0 +1,49 @@
+{
+  "name": "roraapp",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start",
+    "test": "jest"
+  },
+  "dependencies": {
+    "react": "16.0.0",
+    "react-native": "^0.50.0",
+    "react-native-action-button": "^2.8.1",
+    "react-native-bem-check-box": "^1.0.0",
+    "react-native-easy-grid-view": "^0.1.1",
+    "react-native-easy-gridview": "^1.0.2",
+    "react-native-image-picker": "^0.26.7",
+    "react-native-keyboard-aware-scroll-view": "^0.4.1",
+    "react-native-modal-dropdown": "^0.5.0",
+    "react-native-reversed-flat-list": "^1.0.2",
+    "react-native-scrollable-tab-view": "^0.8.0",
+    "react-native-scrollable-tab-view-mask-bar": "^1.0.8",
+    "react-native-simple-toast": "0.0.7",
+    "react-native-splash-screen": "^3.0.6",
+    "react-native-star-rating": "^1.0.8",
+    "react-native-storage": "^0.2.2",
+    "react-native-super-grid": "^2.0.1",
+    "react-native-svg": "^5.5.1",
+    "react-native-svg-image": "^2.0.1",
+    "react-native-svg-uri": "^1.2.3",
+    "react-native-training-chat-server": "^1.1.2",
+    "react-native-vector-icons": "^4.4.2",
+    "react-navigation": "^1.0.0-beta.22",
+    "rn-round-checkbox": "^0.3.3"
+  },
+  "devDependencies": {
+    "babel-jest": "21.2.0",
+    "babel-preset-react-native": "4.0.0",
+    "jest": "21.2.1",
+    "react-test-renderer": "16.0.0-beta.5"
+  },
+  "jest": {
+    "preset": "react-native"
+  },
+  "rnpm": {
+    "assets": [
+      "./assets/fonts/"
+    ]
+  }
+}

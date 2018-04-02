@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="7503 -3776 55 55">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #0090ff;
+      }
+
+      .cls-2 {
+        fill: #fff;
+        fill-rule: evenodd;
+      }
+
+      .cls-3 {
+        filter: url(#envelope);
+      }
+    </style>
+    <filter id="envelope" x="7505.579" y="-3764.632" width="50.228" height="38.959" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_807" data-name="Group 807" transform="translate(7242 -4381)">
+    <circle id="green_circle" data-name="green circle" class="cls-1" cx="27.5" cy="27.5" r="27.5" transform="translate(261 605)"/>
+    <g class="cls-3" transform="matrix(1, 0, 0, 1, -7242, 4381)">
+      <path id="envelope-2" data-name="envelope" class="cls-2" d="M41.631,37.919a.8.8,0,0,1-.208.027H10.8a.8.8,0,0,1-.208-.027h0l9.545-9.545,2.027,2.077a5.486,5.486,0,0,0,7.89,0l2.027-2.077,9.545,9.545Zm.6-1.019V17.966a.8.8,0,0,0-.048-.275c-.048.11-9.531,9.866-9.531,9.866L42.2,37.108a.8.8,0,0,0,.027-.208ZM10,36.981V18.046a.8.8,0,0,1,.048-.275c.048.11,9.531,9.866,9.531,9.866l-9.552,9.552A.806.806,0,0,1,10,36.981ZM41.67,17,29.482,29.485a4.68,4.68,0,0,1-6.736,0L10.56,17c-.037-.038,31.11,0,31.11,0Z" transform="translate(7504.58 -3775.62)"/>
+    </g>
+  </g>
+</svg>
